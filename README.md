@@ -21,11 +21,13 @@ In this section, you will find a brief introduction that highlights my backgroun
 
 Contact me using the provided information below:
 
-- Name: Aniket Kumar
-- Email: aniketkumar2025it@gmail.com
-- Phone: 8800139664
-- LinkedIn: [/aniket-kumar-it](https://www.linkedin.com/in/aniket-kumar-it/)
-- Website: [Aniket Kumar](https://aniketkumarportfolio.netlify.app/)
+- Name: Anmol Kumar Pandit
+- Email: anmolpandit38@gmail.com
+- Phone: 7678585768
+- LinkedIn: [/akpandit24](https://www.linkedin.com/in/akpandit24/)
+- GitHub: [ANMOLPANDIT38](https://github.com/ANMOLPANDIT38)
+- Instagram: [anmolprajapati2004](https://instagram.com/anmolprajapati2004)
+- WhatsApp: +91 7678585768
 
 ## Resume/CV
 
@@ -33,15 +35,24 @@ This section includes a condensed version of my resume or curriculum vitae, high
 
 ## Education and Certifications
 
-Information about my educational background, including degrees earned, relevant courses, and certifications, can be found in this section.
+- **Currently**: Pursuing B.Tech in Artificial Intelligence & Data Science from University School of Automation and Robotics
+- **2022**: 12th from Govt. Co-Ed. Sr. Sec. School, Sector-2, Dwarka, New Delhi
+- **2020**: 10th from Govt. Co-Ed. Sr. Sec. School, Sector-2, Dwarka, New Delhi
 
 ## Skills and Expertise
 
-This section lists my skills and areas of expertise. It includes technical skills, software proficiency, programming languages, design tools, or any other relevant competencies.
+- **Programming Languages**: C++, Python, JavaScript, HTML, CSS
+- **Frameworks & Libraries**: React, Node.js, TailwindCSS, Bootstrap
+- **Databases**: MySQL
+- **Tools**: VS Code, Git/GitHub
+- **Areas**: Web Development, AI/ML, Data Science
 
 ## Personal Projects
 
-Discover my personal projects or side hustles that showcase my creativity, initiative, or entrepreneurial spirit.
+- **Delhi Peak Power Demand**: Real-time analytics dashboard for Delhi's electric power consumption patterns with peak demand forecasting
+- **Startup Analyzer**: Deep startup ecosystem analytics platform for venture capital insights and investor matchmaking
+- **IntervNext AI Mock Interview Platform**: AI-powered mock interview platform with real-time feedback and performance analytics
+- **BookStore Web App**: User-friendly book website offering a wide range of books from around the world
 
 ## Contact
 
